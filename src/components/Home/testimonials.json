@@ -1,0 +1,52 @@
+[
+    {
+        "travellerName": "Emma Johnson",
+        "feedback": "Absolutely loved my stay! The staff were incredibly welcoming, and the views were breathtaking. Highly recommend!",
+        "country": "United States"
+    },
+    {
+        "travellerName": "Liam Smith",
+        "feedback": "A fantastic experience from start to finish. The rooms were spotless, and the food was amazing. Can't wait to return!",
+        "country": "Canada"
+    },
+    {
+        "travellerName": "Sophia Wong",
+        "feedback": "The perfect getaway! Everything was well-organized, and the local attractions made our trip memorable.",
+        "country": "Australia"
+    },
+    {
+        "travellerName": "Noah Müller",
+        "feedback": "Outstanding service and great attention to detail. The staff really made us feel at home. Danke!",
+        "country": "Germany"
+    },
+    {
+        "travellerName": "Isabella Rossi",
+        "feedback": "Such a peaceful and luxurious retreat. The spa services were top-notch, and the location is just beautiful!",
+        "country": "Italy"
+    },
+    {
+        "travellerName": "Lucas García",
+        "feedback": "An unforgettable stay! The hospitality was amazing, and the cultural activities were a great touch.",
+        "country": "Spain"
+    },
+    {
+        "travellerName": "Ava Patel",
+        "feedback": "This place exceeded all my expectations. It’s the perfect blend of luxury and comfort. I'll definitely be back!",
+        "country": "India"
+    },
+    {
+        "travellerName": "William Brown",
+        "feedback": "Great location and even better service. It's clear the team takes pride in making guests feel special.",
+        "country": "United Kingdom"
+    },
+    {
+        "travellerName": "Mia Tanaka",
+        "feedback": "The serene environment and high-quality service made this the best vacation I've ever had. Thank you!",
+        "country": "Japan"
+    },
+    {
+        "travellerName": "Ethan Wilson",
+        "feedback": "Fantastic atmosphere, excellent amenities, and delicious food. Truly a five-star experience.",
+        "country": "New Zealand"
+    }
+]
