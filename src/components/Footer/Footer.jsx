@@ -43,7 +43,7 @@ const Footer = () => {
                         <p>Subscribe to our newsletter</p>
                         <div className="flex flex-row space-x-0">
                             <input type="text" className="w-56 h-10 rounded-l-md text-center text-base bg-transparent border-2 border-primary_3" placeholder="email" />
-                            <button className="border-t-2 border-r-2 border-b-2 border-primary_3 bg-primary_3 h-10 w-14 rounded-r-md hover:bg-primary_2 active:bg-primary_4 active:text-primary_2 ease-in-out duration-300">OK</button>
+                            <button onClick={() => preventDefault()} className="border-t-2 border-r-2 border-b-2 border-primary_3 bg-primary_3 h-10 w-14 rounded-r-md hover:bg-primary_2 active:bg-primary_4 active:text-primary_2 ease-in-out duration-300">OK</button>
                         </div>
                     </div>
                 </div>

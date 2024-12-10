@@ -46,7 +46,7 @@ const ContactUs = () => {
                             />
                         </label>
                     </div>
-                    <button className="self-center border-primary_3 bg-primary_3 w-1/3 h-10 rounded-md hover:bg-primary_2 active:bg-primary_4 active:text-primary_2 ease-in-out duration-300">Submit</button>
+                    <button onClick={() => preventDefault()} className="self-center border-primary_3 bg-primary_3 w-1/3 h-10 rounded-md hover:bg-primary_2 active:bg-primary_4 active:text-primary_2 ease-in-out duration-300">Submit</button>
                 </form>
             </div>
         </div>
