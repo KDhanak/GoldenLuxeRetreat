@@ -4,10 +4,15 @@ import room1Image from "../../../public/room-1.jpg";
 import room2Image from "../../../public/room-2.jpg";
 import roomTwinsImage from "../../../public/room-twins.jpg";
 import TestimonialsSlider from "../Home/TestimonialsSlider";
+import { Helmet } from "react-helmet";
 
 const Rooms = () => {
     return (
         <div className="flex flex-col font-serif">
+            <Helmet>
+                <title>Rooms</title>
+                <meta name="description" content="home" />
+            </Helmet>
             <Hero />
             <div className="mx-[550px] flex flex-col my-14 space-y-7">
                 <div className="flex flex-col">

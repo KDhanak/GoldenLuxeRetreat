@@ -7,10 +7,15 @@ import swimmingPoolImage from "../../../public/swimming-pool.jpg";
 import restaurantImage from "../../../public/restaurant.jpg";
 import laundryImage from "../../../public/laundry.jpg";
 import TestimonialsSlider from "../Home/TestimonialsSlider";
+import { Helmet } from "react-helmet";
 
 const Facilities = () => {
     return (
         <div className="flex flex-col font-serif">
+            <Helmet>
+                <title>Facilities</title>
+                <meta name="description" content="home" />
+            </Helmet>
             <Hero />
             <div className="mx-[550px] flex flex-col my-14 space-y-7">
                 <div className="flex flex-col">
