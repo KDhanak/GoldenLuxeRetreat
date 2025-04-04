@@ -21,9 +21,9 @@ const Footer = () => {
 
                     </div>
                     <div className="flex flex-col w-1/4 text-primary_1 text-sm space-y-3">
-                        <p>Facilities</p>
-                        <p>Rooms</p>
-                        <p>Contact Us</p>
+                        <a href="/facilities"><p>Facilities</p></a>
+                        <a href="/rooms"><p>Rooms</p></a>
+                        <a href="/contact-us"><p>Contact Us</p></a>
                     </div>
                     <div className="flex flex-col w-1/4 text-primary_1 text-sm space-y-3">
                         <div className="flex space-x-2 items-center">
